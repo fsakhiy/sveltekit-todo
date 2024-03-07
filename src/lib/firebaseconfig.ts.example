@@ -1,0 +1,10 @@
+// please get rid of the .example in the end of the filename and fill this with your own firebase config
+
+export const firebaseConfig = {
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
+};
